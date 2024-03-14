@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+
+}
+.wrapper {
+    width: 300px;
+    border-width: 5rem;
+    border-color: black;
+    box-sizing: border-box;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+    padding: 20px;
+
+}
+.Login_title {
+    text-align: center;
+    font-size: larger;
+
+}
+.h2_title {
+    text-align: center;
+    font-size: large;
+
+}
+.div1{
+    width: 260px;
+    height: 38px;
+    border-width: 1px;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+
+.div2{
+    width: 260px;
+    height: 38px;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    margin-bottom: 30px;
+
+}
+
+.login_button{
+    width: 260px;
+    height: 38px;
+    border: 1px solid black;
+    background: orange;
+    border-radius: 0.5rem;
+}
